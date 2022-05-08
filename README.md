@@ -31,7 +31,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
+<table><tr>
 
 
 
@@ -44,17 +44,13 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 </div>
 
-</td><td valign="top" width="50%">
-
 
 
 ### Dev Tool  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-</div>
-
-</td></tr></table>  
+</div></tr></table>  
 
 <br/>  
 
