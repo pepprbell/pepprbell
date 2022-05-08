@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">주니어 프론트엔드 개발자 차수연입니다! 👩‍💻</div>  
   
 
