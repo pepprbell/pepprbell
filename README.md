@@ -69,6 +69,6 @@
 ----
 
 ## BOJ Profile
-<div align="center">[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=baekj_c)](https://solved.ac/baekj_c)</div>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=baekj_c)](https://solved.ac/baekj_c)
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
