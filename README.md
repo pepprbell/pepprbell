@@ -67,4 +67,8 @@
 <br />
 
 ----
+
+## BOJ Profile
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/baekj_c)
+
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
